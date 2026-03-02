@@ -11,10 +11,10 @@ Hey! here, is myself
 - 🔭 I’m currently working on frontend design learning.  
   
 
-- 🌱 I’m currently learning backend development.  
+- 🌱 Way on flourishing backend->----------------->DevOps.  
   
 
-- ❓ Ask me about anything related to C++ and web technology  
+- ❓ Ask me about anything related to C++ and web technology. 
   
 
    
